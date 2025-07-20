@@ -4,17 +4,17 @@
 
 This is **Project 3** of my Web Development Internship at **Prodigy InfoTech**.
 
-### 🔧 Built With:
+###  Built With:
 - HTML
 - CSS
 - JavaScript
 
-### ✨ Features:
+###  Features:
 - Start, Stop, and Reset buttons
 - Live stopwatch display in HH:MM:SS format
 - Clean and responsive UI
 
-### 📁 Files:
+###  Files:
 index.html → Main structure
 style.css → Styling
 script.js → Stopwatch logic
