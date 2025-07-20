@@ -15,6 +15,6 @@ This is **Project 3** of my Web Development Internship at **Prodigy InfoTech**.
 - Clean and responsive UI
 
 ###  Files:
--index.html → Main structure
--style.css → Styling
--script.js → Stopwatch logic
+- index.html → Main structure
+- style.css → Styling
+- script.js → Stopwatch logic
